@@ -14,6 +14,19 @@ website:
   navbar:
     background: primary
     search: true
+    collapse-below: lg
+    left:
+      - text: "Homepage"
+        href: "https://nextrick.github.io/website/"
+      - text: "Blog"
+        menu:
+          - text: "Graphic Design"
+            href: blog/graphic_design/index.qmd
+          - text: "AI"
+            href: blog/graphic_design/index.qmd
+    right:
+      - icon: github
+        href: "https://github.com/nextrick/Deep-Learning"
   sidebar:
     style: floating
 
