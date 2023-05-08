@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Practical-Programming"
+  site-url: "https://nextrick.github.io/Practical-Programming"
+  description: "This is nextrick practical programming course"
+  repo-branch: main
+  repo-url: "https://github.com/nextrick/Practical-Programming"
