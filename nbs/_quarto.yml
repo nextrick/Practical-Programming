@@ -15,8 +15,6 @@ website:
     style: floating
     contents:
       - auto: "/*.ipynb"
-      - section: Tutorials
-        contents: tutorial/*
   navbar:
     background: primary
     search: true
@@ -26,9 +24,7 @@ website:
         href: "https://nextrick.github.io/website/"
       - text: "Blog"
         menu:
-          - text: "Graphic Design"
-            href: blog/graphic_design/index.qmd
-          - text: "AI"
+          - text: "Lesson 1"
             href: blog/graphic_design/index.qmd
     right:
       - icon: github
